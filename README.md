@@ -57,3 +57,8 @@ than added init
 HAL_Delay(750);
 DataRaw = ReadFIFOData(&mySensor,&huart2);
 ```
+
+# Result
+
+![image](https://github.com/user-attachments/assets/81b18ece-fd4f-4561-924f-6755ae77f1e0)
+
